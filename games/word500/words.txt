@@ -1,0 +1,50 @@
+# Word 500 so'zlari. Har qatorda bitta so'z.
+#
+# QOIDALAR:
+#  - "#" bilan boshlangan qator izoh, bot uni o'qimaydi.
+#  - Oddiy so'z aynan 5 BELGI bo'lishi kerak va o'z holicha yoziladi (ishor, tanga).
+#  - o' g' ch harflari uchun hech narsa kerak emas: bot ularni o'zi bitta harf deb oladi.
+#  - Agar so'zda sh yoki ng BIRLASHGAN (bitta) harf bo'lsa, so'z boshiga * qo'ying: *shahar
+#    (nechta bo'lishi farq qilmaydi, bitta * yetadi: *eshshak).
+#  - Kamdan-kam: so'zda sh/ng lardan ba'zisi birlashgan, ba'zisi alohida bo'lsa,
+#    birlashganini qavsga oling: *[sh]anga
+#  - Tutuq belgili so'zlar (ma'no, san'at) yozilmasin.
+#  - Bot ishga tushganda xato qatorlarni konsolda qator raqami bilan ko'rsatadi.
+
+bahor
+daryo
+osmon
+kitob
+qalam
+bolta
+paxta
+tuxum
+sabzi
+piyoz
+qovun
+anjir
+gilam
+devor
+tanga
+temir
+bozor
+ovqat
+ishor
+isloh
+qanot
+imkon
+bulut
+bodom
+ko'mir
+bo'ron
+do'kon
+o'rdak
+tog'am
+tuyog'
+chiroq
+cho'chqa
+*shahar
+*qo'shin
+*qo'shiq
+*quyosh
+*shamol
